@@ -21,7 +21,7 @@ def calculate_basic_operations(array):
     except Exception:
         pass
     
-def obtine_values(array):
+def getting_values(array):
     array[0] = int(array[0]) 
 
     array[2] = int(array[2]) 
