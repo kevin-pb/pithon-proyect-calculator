@@ -1,5 +1,5 @@
-from calculate_fns import calculate_basic_operations
-from calculate_fns import getting_values
+from functions.calculate_fns import calculate_basic_operations
+from functions.calculate_fns import getting_values
 
 result = None
 
@@ -155,6 +155,9 @@ def main():
         elif option == 3:
         
             break
+        
+        else:
+            pass
 
 if __name__ == "__main__":
     main()
