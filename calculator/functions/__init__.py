@@ -1,2 +1,0 @@
-from calculate_fns import calculate_basic_operations
-from calculate_fns import getting_values

@@ -1,5 +1,5 @@
-from functions import calculate_basic_operations
-from functions import getting_values
+from libs import calculate_basic_operations
+from libs import getting_values
 
 result = None
 
