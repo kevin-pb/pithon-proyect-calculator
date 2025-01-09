@@ -125,12 +125,7 @@ def main():
                     data = data_enter.split(" ")
 
                     result_list.append(data)
-
-            except Exception:
-    
-                print("You have entered an incorrect value")
-
-            try:
+                        
                 #getting values
             
                 getting_values(result_list)
