@@ -157,7 +157,8 @@ def main():
             break
         
         else:
-            pass
+            if type(option) == int:
+                print("You have entered an incorrect option")
 
 if __name__ == "__main__":
     main()
